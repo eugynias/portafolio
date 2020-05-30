@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.js": "/portafolio/static/js/main.e6b6bfb7.chunk.js",
-    "main.js.map": "/portafolio/static/js/main.e6b6bfb7.chunk.js.map",
+    "main.js": "/portafolio/static/js/main.69b86591.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.69b86591.chunk.js.map",
     "runtime-main.js": "/portafolio/static/js/runtime-main.2bd87577.js",
     "runtime-main.js.map": "/portafolio/static/js/runtime-main.2bd87577.js.map",
     "static/css/2.89f067aa.chunk.css": "/portafolio/static/css/2.89f067aa.chunk.css",
-    "static/js/2.257f5301.chunk.js": "/portafolio/static/js/2.257f5301.chunk.js",
-    "static/js/2.257f5301.chunk.js.map": "/portafolio/static/js/2.257f5301.chunk.js.map",
+    "static/js/2.2c443715.chunk.js": "/portafolio/static/js/2.2c443715.chunk.js",
+    "static/js/2.2c443715.chunk.js.map": "/portafolio/static/js/2.2c443715.chunk.js.map",
     "index.html": "/portafolio/index.html",
-    "precache-manifest.e1c25333461a0d1450f0ca5dc27d0659.js": "/portafolio/precache-manifest.e1c25333461a0d1450f0ca5dc27d0659.js",
+    "precache-manifest.89d20bb34f1ebd3aba4212c7b31a0bf8.js": "/portafolio/precache-manifest.89d20bb34f1ebd3aba4212c7b31a0bf8.js",
     "service-worker.js": "/portafolio/service-worker.js",
     "static/css/2.89f067aa.chunk.css.map": "/portafolio/static/css/2.89f067aa.chunk.css.map",
-    "static/js/2.257f5301.chunk.js.LICENSE.txt": "/portafolio/static/js/2.257f5301.chunk.js.LICENSE.txt",
-    "static/media/eugenianajar.jpg": "/portafolio/static/media/eugenianajar.425ec427.jpg",
+    "static/js/2.2c443715.chunk.js.LICENSE.txt": "/portafolio/static/js/2.2c443715.chunk.js.LICENSE.txt",
+    "static/media/eugenia-najar.jpeg": "/portafolio/static/media/eugenia-najar.7db5511c.jpeg",
     "static/media/fondo.jpg": "/portafolio/static/media/fondo.2df563fe.jpg",
     "static/media/lab-notes.png": "/portafolio/static/media/lab-notes.b6ef68f8.png",
     "static/media/mdlinks4.png": "/portafolio/static/media/mdlinks4.32b16fcc.png",
-    "static/media/movie.png": "/portafolio/static/media/movie.2f3be9b1.png"
+    "static/media/movie.png": "/portafolio/static/media/movie.2f3be9b1.png",
+    "static/media/najarLogo3.svg": "/portafolio/static/media/najarLogo3.90b194ba.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2bd87577.js",
     "static/css/2.89f067aa.chunk.css",
-    "static/js/2.257f5301.chunk.js",
-    "static/js/main.e6b6bfb7.chunk.js"
+    "static/js/2.2c443715.chunk.js",
+    "static/js/main.69b86591.chunk.js"
   ]
 }
