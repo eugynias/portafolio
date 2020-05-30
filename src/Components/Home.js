@@ -1,9 +1,7 @@
 
 import React from 'react';
 import styled from 'styled-components';
-import img from '../img/eugenianajar.jpg'
-
-
+import img from '../img/eugenia-najar.jpeg'
 
 const Nom = styled.div`
   display: flex;
@@ -15,19 +13,21 @@ const Nom = styled.div`
     font-weight:bold;
     font-size:70px;
     text-transform: uppercase;
-    color: #8C52FF;
+    color: dark;
     line-height: 0.8;
     `
   const Front = styled.h3`
     font-family: 'Catamaran', sans-serif;
     font-size:20px;
     margin-top: 10px;
+    color:darkmagenta;
     `
   const Todo= styled.div`
+  min-height: 40rem;
   display: flex;
   justify-content: center;
   align-items:center;
-  flex-wrap: wrap;
+ 
   `
   const Foto= styled.div`
     width: 100%;
@@ -44,14 +44,14 @@ const Nom = styled.div`
   const Home=()=>{
 
     return(
-        <div>
+        <div id="home">
             <Todo>
               <div className="col col-sm-4">
                 <Foto>
-                   <Img src={img} />
+                  <Img src={img} />
                   </Foto>
-               </div>
-               <div className="col col-sm-3">
+              </div>
+                <div className="col col-sm-3">
                   <Nom>
                       <Name >Eugenia </Name>
                       <Name >Najar</Name>
