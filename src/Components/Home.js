@@ -44,7 +44,7 @@ const Nom = styled.div`
   const Home=()=>{
 
     return(
-        <div id="home">
+        <div id="home" className="flex- column flex-md-row">
             <Todo>
               <div className="col col-sm-4">
                 <Foto>

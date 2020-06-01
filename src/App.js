@@ -18,7 +18,7 @@ function App() {
   return (
     <div>
       
-       <Container>
+       <Container >
          <Nav />
             
                 <Home />
