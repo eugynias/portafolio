@@ -40,20 +40,20 @@ const Projects=()=>{
 
     {
       id: 2,
-      title: "Lab Notes",
-      description: "Los docentes en el transcurso de sus clases deben llevar un registro detallado de las actividades de cada uno de sus alumnos . Lab- notes pretende simplicar este proceso ya que permite crear, editar, eliminar y consultar notas en cualquier momento.",
-      linkGithub:"https://github.com/eugynias/GDL004-lab-notes",
-      linkLiveDemo:"https://github.com/eugynias/GDL004-movie-challenge",
-      img:"https://i.ibb.co/4SzgpWf/lab-notes.png"
+      title: "JConf",
+      description: "Pagina web para el evento JConf 2020 de la comunidad Java en Guadalajara.Proyecto freelance con un equipo de 6 personas, tecnologías utilizadas Vue, Typescript, Firebase, Docker, Spectre, Jest.",
+      linkGithub:"https://github.com/sierisimo/jconf-web",
+      linkLiveDemo:"http://jconfmex.org/",
+      img:"https://i.ibb.co/pwsPxYP/jconf.png"
     },
 
     {
       id: 3,
-      title: "MD-LINKS",
-      description: "MD-LINKS es un Framework que lee y analiza archivos en formato Markdown para verificar los links que contiene y reportar estadísticas como .- Links validos (--validate), links inválidos y estadísticas en general (--stats)",
-      linkGithub:"https://github.com/eugynias/GDL004-md-links",
-      linkLiveDemo:"https://github.com/eugynias/GDL004-movie-challenge",
-      img:"https://i.ibb.co/HT7rV4q/mdlinks.png"
+      title: "Kilichips",
+      description: "E-commerce para la marca Kilichips, snacks saludables son presencia en todo el país. Proyecto freelance con un equipo de 3 personas ,tecnologías utilizadas React , Ruby on Rails",
+      linkGithub:"https://github.com/eugynias",
+      linkLiveDemo:"https://github.com/eugynias",
+      img:"https://i.ibb.co/KGJN7rf/kilichips.jpg"
     },
   ];
   
@@ -81,7 +81,7 @@ const Projects=()=>{
               <Card.Footer> 
                 <ContainerCta>
                   <Button variant="primary" href={project.linkGithub}>Repositorio</Button>
-                  <Button variant="primary" href={project.linkLiveDemo}>Live Demo</Button>
+                  <Button variant="primary" href={project.linkLiveDemo}>Web</Button>
                 </ContainerCta>
               </Card.Footer>
             </Card>      
